@@ -1,18 +1,10 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/l0K4hO8mVvq8Oygjm/giphy.gif" width="200" />
     <h1 align="center">Hi 👋, I'm clblommberg</h1>
-    <h3 align="center">Bachelor of Administration, Banking and Finance, a passionate data analytics Peru. I like teaching what I learn in my Social
+    <h3 align="center">Bachelor of Administration, Banking and Finance, a passionate data analytics Peru.
         Media: YouTube and TikTok where you can find me like a 
         clblommberg.</h3>
 </div>
-
-<div id="badges" align="center">
-    <a href="https://www.youtube.com/@clblommberg" target="_blank">
-        <img src="https://img.shields.io/youtube/channel/subscribers/@clblommberg?style=social"
-            alt="YouTube Channel Subscribers" />
-    </a>
-</div>
-
 ---
 
 ### 👨‍💻 About Me :
