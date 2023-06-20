@@ -1,19 +1,17 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/l0K4hO8mVvq8Oygjm/giphy.gif" width="200" />
-    <h1 align="center">Hi 👋, I'm clblommberg</h1>
-    <h3 align="center">Bachelor of Administration, Banking and Finance, a passionate data analytics Peru.
-        Media: TikTok where you can find me like a 
-        clblommberg.</h3>
+    <img src="https://media.giphy.com/media/9gISqB3tncMmY/giphy.gif" width="200" />
+    <h1 align="center">Hola 👋, Soy clblommberg</h1>
+    <h3 align="center">Bachiller en Administración banca y Finanzas, apasionado por las finanzas y la tecnología.    </h3>
 </div>
 ---
 
-### 👨‍💻 About Me :
+### 👨‍💻 Preferencias:
 
-- 💬 Ask me about **Python and Typescript**
+- 💬 Acerca de mí **Python and Typescript**
 
-- 📫 How to reach me **clblommberg@gmail.com**
+- 📫 Escríbeme **clblommberg@gmail.com**
 
-- 🌱 I’m currently learning **Data science**
+- 🌱 Actualmente estoy aprendiendo **Data science y desarrollo APPs CRM**
 
 
 
